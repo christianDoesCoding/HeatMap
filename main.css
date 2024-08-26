@@ -1,0 +1,14 @@
+:root {
+    --heat-js-day-color-1-background-color: rgba(128, 0, 128, 0.25);
+    --heat-js-day-color-1-border-color: rgba(128, 0, 128, 0.15);
+    --heat-js-day-color-1-text-color: var(--heat-js-color-white);
+    --heat-js-day-color-2-background-color: rgba(152, 0, 182, 0.5);
+    --heat-js-day-color-2-border-color: rgba(128, 0, 128, 0.25);
+    --heat-js-day-color-2-text-color: var(--heat-js-color-white);
+    --heat-js-day-color-3-background-color: rgba(128, 0, 128, 1);
+    --heat-js-day-color-3-border-color: rgba(198, 0, 198, 0.5);
+    --heat-js-day-color-3-text-color: var(--heat-js-color-black);
+    --heat-js-day-color-4-background-color: rgba(255, 0, 255, 0.75);
+    --heat-js-day-color-4-border-color: rgba(255, 0, 255, 0.75);
+    --heat-js-day-color-4-text-color: var(--heat-js-color-black);
+}

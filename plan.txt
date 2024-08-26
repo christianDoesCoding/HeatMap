@@ -1,0 +1,20 @@
+Goal: Develop an application that provides insights into the most common ticket issues across different time frames (daily, weekly, monthly) and categories (general, per company).
+Stretch:
+- Allow filtering by company, issue type, and time period.
+- Provide visual representations of data (graphs, charts).
+- Enable report generation and export functionality.
+- Leverage Azure AI to explore the use of machine learning to predict future common issues based on historical data.
+
+How will this be useful:
+- We want a solution that provides a visual on our ticket insights, that can drive automation ideas/ proactive measures for certain clients
+
+Visualize:
+- one heat map with a square for each client
+- Heat map with ticket category
+    - Scope out further on this...
+- insight on certain tickets categories that occur on days of the week
+
+Resources:
+- https://blog.logrocket.com/create-heatmaps-javascript/
+- https://github.com/williamtroup/Heat.js/tree/main/dist/themes
+- https://www.anychart.com/blog/2023/05/30/heatmap-js/
